@@ -8,4 +8,4 @@ La página web de la Biblioteca Triple Peaks es el tercer proyecto en el program
 - Flexbox
 - Posicionamiento
 
-Enlace a pages: https://mauriixiiop.github.io/web_project_library_es/git
+Enlace a pages: https://mauriixiiop.github.io/web_project_library_es/
